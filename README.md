@@ -12,4 +12,4 @@
 
 ## Preview
 
-![Image of HN Stories](https://i.imgur.com/vQL77Ch.png)
+![Image of HN Stories](https://i.imgur.com/FVy89LQ.png)
