@@ -1,7 +1,12 @@
 {
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{5b3ef367-a36b-49e9-a517-3083f96ff04c}"
+    }
+  },
   "manifest_version": 2,
   "name": "HN Stories",
-  "version": "1",
+  "version": "1.0.2",
   "description": "sneak peek hacker news",
   "permissions": ["tabs"],
   "icons": { "128": "iconx128.png" },
