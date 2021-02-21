@@ -1,8 +1,9 @@
 body {
   font-family: "Source Sans Pro", sans-serif;
   background-color: #f6f6ef;
-  min-width: 500px;
+  min-width: 600px;
   font-size: 0.8rem;
+  overflow-x: hidden; /* curse you firefox */
 }
 
 /* nav */
