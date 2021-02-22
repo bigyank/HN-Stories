@@ -1,6 +1,6 @@
 # HN Stories
 
-> a small chrome extension to see top, new and best hacker news
+> a small chrome extension to see top, new and best stories at hacker news
 
 ## Features
 
